@@ -47,12 +47,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pandas_getting_data.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pandas_getting_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pandas_getting_data.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
               <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pandas_applying_calculation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pandas_applying_calculation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,6 +78,7 @@
         <option value="$PROJECT_DIR$/pandas.py" />
         <option value="$PROJECT_DIR$/pandas_dataframes.py" />
         <option value="$PROJECT_DIR$/pandas_getting_data.py" />
+        <option value="$PROJECT_DIR$/pandas_applying_calculation.py" />
       </list>
     </option>
   </component>
@@ -196,6 +209,16 @@
         <state relative-caret-position="527">
           <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_applying_calculation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
