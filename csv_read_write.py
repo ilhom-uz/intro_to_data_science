@@ -44,7 +44,6 @@ def fix_turnstile_data(name):
 
     row_array = []
     for row in reader:
-        print (row)
         row_array.append(row[0])
         row_array.append(row[1])
         row_array.append(row[2])
@@ -52,7 +51,9 @@ def fix_turnstile_data(name):
         z = 8
         for k in range(a, z):
             row_array.append(row[k])
-            write_out.writerow(row_array)
-            print(row_array)
+        print(row_array)
+        write_out.writerow(row_array)
+        row_array = []
+
 
 fix_turnstile_data('file.txt')
